@@ -1,0 +1,13 @@
+body{
+  margin:0;
+  background-image: url('./image/backgrounds/background-app.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* justify-content: center;
+	  align-items: center; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+ 
